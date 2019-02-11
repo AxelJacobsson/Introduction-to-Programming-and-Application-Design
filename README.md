@@ -17,9 +17,9 @@ Section 2: JavaScript Basics - Variables and Statements
 Section 3: Functions
   Lesson 1: Function Basics
   Lesson 2: Undefined and Null
-  Lesson 3: Multiple Arguments and Arguement Defaults
+  Lesson 3: Multiple Arguments and Argument Defaults
   Lesson 4: Function Scope
-  Lesson 5: Tempale String
+  Lesson 5: Template String
   
 Section 4: Objects
   Lesson 1: Object Basics
@@ -27,7 +27,7 @@ Section 4: Objects
   Lesson 3: Object References
   Lesson 4: Methods
   Lesson 5: Exploring String Methods
-  Lesson 6: Exploring Number Mehtods
+  Lesson 6: Exploring Number Methods
   Lesson 7: Constant Variables
   
 Section 5: Arrays
