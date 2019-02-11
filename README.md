@@ -55,3 +55,7 @@
 
 **[Windows Only] Cmder:** http://cmder.net
 
+**Git:** https://git-scm.com
+
+**GitHub:** https://github.com
+
