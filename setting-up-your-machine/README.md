@@ -1,4 +1,4 @@
-# Setting up Your Machine [(Download)](https://github.com/martensievers/Resource-Files/raw/master/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)
+# Setting up Your Machine [![alt text](https://icon-icons.com/icons2/936/PNG/32/download-to-storage-drive_icon-icons.com_73590.png "Download Slides")](https://github.com/martensievers/Resource-Files/raw/master/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)
 
 ## Downloads & Installation:
 
@@ -27,3 +27,5 @@ After installing everything, create a new file called `script.js` and write the 
       console.log("Hello, World!")
 
 Next, open the Terminal and navigate to the file location. Run `node script.js` and wait for the magic!
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
