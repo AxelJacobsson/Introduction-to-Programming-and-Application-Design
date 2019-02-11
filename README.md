@@ -1,11 +1,13 @@
-# CBS-T1
+# Introduction to Programming and Application Design - Spring Intake 2019
 
 
-## Useful Resources:
-**Download Visual Studio Code:** https://code.visualstudio.com
+## Useful Resources & Download Links:
+**Visual Studio Code:** https://code.visualstudio.com
 
-**Download Node.js:** hhtps://nodejs.org/en
+**Node.js:** https://nodejs.org/en
 
+
+## Course Overview
 |Exercise | Topic|
 |---|---|
 |**Lesson 1: Setting up Your Machine** | 1. Installing Visual Studio Code|
