@@ -46,7 +46,7 @@
 | | 11. Dropdowns|
 
 
-## Useful Resources & Download Links:
+## Download Links:
 **Visual Studio Code:** https://code.visualstudio.com
 
 **Node.js:** https://nodejs.org/en
