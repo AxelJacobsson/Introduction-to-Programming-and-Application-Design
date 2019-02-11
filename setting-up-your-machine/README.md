@@ -1,4 +1,4 @@
-# Setting up Your Machine [(Download)](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/raw/master/setting-up-your-machine/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)
+# Setting up Your Machine [(Download)](https://github.com/martensievers/Resource-Files/raw/master/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)
 
 ## Downloads & Installation:
 
