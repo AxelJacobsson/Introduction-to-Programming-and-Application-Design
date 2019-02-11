@@ -21,7 +21,7 @@ Open the Terminal on you computer and run `node -v` in the console to check if N
 
 
 
-## Hello JavaScript!
+## Hello, World!
 
 After installing everything, create a new file called `script.js` and write the following code on line 1. 
 
