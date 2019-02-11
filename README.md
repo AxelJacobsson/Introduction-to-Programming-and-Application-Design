@@ -1,12 +1,6 @@
 # Introduction to Programming and Application Design - Spring Intake 2019
 
 
-## Useful Resources & Download Links:
-**Visual Studio Code:** https://code.visualstudio.com
-
-**Node.js:** https://nodejs.org/en
-
-
 ## Course Overview
 |Exercise | Topic|
 |---|---|
@@ -50,3 +44,14 @@
 | | 9. Working with Forms|
 | | 10. Checkboxes|
 | | 11. Dropdowns|
+
+
+## Useful Resources & Download Links:
+**Visual Studio Code:** https://code.visualstudio.com
+
+**Node.js:** https://nodejs.org/en
+
+**[Mac Only]:** https://developer.apple.com
+
+**[Windows Only] Cmder:** http://cmder.net
+
