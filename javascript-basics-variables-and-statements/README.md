@@ -1,1 +1,1 @@
-# JavaScript Basics - Variables and Statements
+# Variables and Statements
