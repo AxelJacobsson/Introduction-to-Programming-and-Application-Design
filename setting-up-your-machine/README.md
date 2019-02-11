@@ -25,6 +25,6 @@ Open the Terminal on you computer and run `node -v` in the console to check if N
 
 After installing everything, create a new file called `script.js` and write the following code on line 0.
 
-      console.log("Hello, JavaScript!")
+      console.log("Hello, World!")
 
 Next, open the Terminal and navigate to the file location. Run `node script.js` and wait for the magic!
