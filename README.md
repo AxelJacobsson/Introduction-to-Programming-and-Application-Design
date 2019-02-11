@@ -12,10 +12,10 @@ Download Visual Studio Code: code.visualstudio.com
 
 Course Plan:
 Section 1: Setting up Your Machine
-  Lesson 1: Installing Visual Studio Code
-  Lesson 2: Installing Node.js
-  Lesson 3: Introduction to the Terminal
-  Lesson 4: Hello, JavaScript!
+  1. Installing Visual Studio Code
+  2. Installing Node.js
+  3. Introduction to the Terminal
+  4. Hello, JavaScript!
   
 Section 2: JavaScript Basics - Variables and Statements
   Lesson 1: Strings and Variables
