@@ -7,7 +7,7 @@
 |**Lesson 1: Setting up Your Machine** | 1. Installing Visual Studio Code|
 | | 2. Installing Node.js|
 | | 3. Introduction to the Terminal|
-| | 4. Hello, JavaScript!|
+| | 4. Hello, World!|
 |**Lesson 2: JavaScript Basics - Variables and Statements**| 1. Strings and Variables|
 | | 2. Numbers|
 | | 3. Booleans and Comparison Operators|
