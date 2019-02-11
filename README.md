@@ -1,5 +1,16 @@
 # CBS-T1
 
+
+Useful Resources:
+Download Visual Studio Code: code.visualstudio.com
+
+
+
+
+
+
+
+Course Plan:
 Section 1: Setting up Your Machine
   Lesson 1: Installing Visual Studio Code
   Lesson 2: Installing Node.js
