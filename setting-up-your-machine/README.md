@@ -28,4 +28,5 @@ After installing everything, create a new file called `script.js` and write the 
 
 Next, open the Terminal and navigate to the file location. Run `node script.js` and wait for the magic!
 
-**[Download Slides](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/raw/master/setting-up-your-machine/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)**
+
+**[DOWNLOAD TODAYS PRESENTATION](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/raw/master/setting-up-your-machine/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)**
