@@ -1,5 +1,7 @@
 # Introduction to Programming and Application Design - Spring Intake 2019
 
+Welcome to the course 'Introduction to Programming and Application Design'. Here in this directory you will find all the information that we discuss in class and a little bit more. I will try to upload all the slides and course files on here, so make sure to come back if you are looking for something specific. If you can't find what you are looking for and need further help, first check our the [wiki](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/wiki) or send me an email mss.digi@cbs.dk!
+
 
 ## Course Overview
 |Exercise | Topic|
