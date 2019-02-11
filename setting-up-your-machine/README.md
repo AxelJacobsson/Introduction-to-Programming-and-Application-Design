@@ -1,8 +1,5 @@
 # Setting up Your Machine
 
-**[Download Slides](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/raw/master/setting-up-your-machine/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)**
-
-
 ## Downloads & Installation:
 
 Start by downloading and installing Visual Studio Code (Text Editor) and Node.js (Runtime). **NOTE:** If you are on a mac, you need to install Xcode as well, to be able to run Node.js.
@@ -30,3 +27,5 @@ After installing everything, create a new file called `script.js` and write the 
       console.log("Hello, World!")
 
 Next, open the Terminal and navigate to the file location. Run `node script.js` and wait for the magic!
+
+**[Download Slides](https://github.com/martensievers/Introduction-to-Programming-and-Application-Design/raw/master/setting-up-your-machine/Lesson%201%20-%20Setting%20up%20Your%20Machine.pdf)**
