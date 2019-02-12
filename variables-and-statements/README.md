@@ -5,7 +5,7 @@ Today we will learn about the fundamentals of Strings, Variables and Statements 
 
 ## Exercise Challenge:
 
-Write an application from scratch, that can convert temperatures from Celcius to Fahrenheit and Kelvin. HINT: You can find the formulas on how to calculate [Fahrenheit to Celcius](https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html) and [Fahrenheit to Kelvin](https://www.rapidtables.com/convert/temperature/celsius-to-kelvin.html).
+Write an application from scratch, that can convert temperatures from Celcius to Fahrenheit and Kelvin. **HINT:** You can find the formulas on how to calculate [Fahrenheit to Celcius](https://www.rapidtables.com/convert/temperature/celsius-to-fahrenheit.html) and [Fahrenheit to Kelvin](https://www.rapidtables.com/convert/temperature/celsius-to-kelvin.html).
 
 You program could look something like this:
 
