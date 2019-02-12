@@ -6,12 +6,12 @@ Welcome to the course 'Introduction to Programming and Application Design'. Here
 ## Course Overview
 |Topics | Chapters|
 |---|---|
-|**Setting up Your Machine** | 1. Installing Visual Studio Code|
-| | 2. Installing Node.js|
-| | 3. Introduction to the Terminal|
-| | 4. Hello, World!|
-|**JavaScript Basics - Variables and Statements**| 1. Strings and Variables|
-| | 2. Numbers|
+|**Setting up Your Machine** | ~~1. Installing Visual Studio Code~~|
+| | ~~2. Installing Node.js~~|
+| | ~~3. Introduction to the Terminal~~|
+| | ~~4. Hello, World!~~|
+|**JavaScript Basics - Variables and Statements**| ~~1. Strings and Variables~~|
+| | ~~2. Numbers~~|
 | | 3. Booleans and Comparison Operators|
 | | 4. If Statements|
 | | 5. Advanced If Statements|
