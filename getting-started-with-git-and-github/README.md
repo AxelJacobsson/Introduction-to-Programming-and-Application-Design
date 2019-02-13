@@ -17,7 +17,7 @@ Open the Terminal on you computer and run `git --version` in the console to chec
 
 ## Git Fundamentals!
 
-Before you start reading any of the below, please make sure to read this [Git Tutorial for Beginners: Introduction to Version Control](https://www.cloudways.com/blog/git-tutorial-for-beginners-version-control/)
+Before you start reading any of the below, please make sure to read this [***Git Tutorial for Beginners: Introduction to Version Control***](https://www.cloudways.com/blog/git-tutorial-for-beginners-version-control/)
 
 Now that you have read the article and know what Git is all about, here are the fundamental commands that you can use in the Terminal:
 
