@@ -48,6 +48,15 @@ Welcome to the course 'Introduction to Programming and Application Design'. Here
 | | 11. Dropdowns|
 
 
+## Suggested Readings:
+
+**Eloquent JavaScript:** https://eloquentjavascript.net
+
+**How to think like a programmer:** https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2?fbclid=IwAR3gOKVp0LENDa6X3m_OMToU7q1OK4h9_6rPV7vr5nVd3BRsZ5OcmKCvhls
+
+**Git for Beginners: Introduction to Version Control** https://www.cloudways.com/blog/git-tutorial-for-beginners-version-control/?fbclid=IwAR3QjjEjw-rtOYfqPaO9aRhWhmKwZQ1QSR7O8pMSkxGruAXD6fPF8CRc9Y0
+
+
 ## Download Links:
 **Visual Studio Code:** https://code.visualstudio.com
 
